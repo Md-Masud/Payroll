@@ -1,0 +1,98 @@
+﻿
+.fieldset1 {
+    width: 900px;
+    height: 90%
+}
+
+.fieldset2 {
+    width: 400px;
+    height: 300px;
+    border-radius:10px;
+    float: left;
+    background: gray;
+}
+.fieldset3 {
+    width: 400px;
+    height: 300px;
+    border-radius:10px;
+    float: right;
+    background: gray;
+}
+.commonLegend{
+    color:lightseagreen;
+    font-size:30px;
+    font:bold;
+
+}
+.commonEmployee {
+    width: 200px;
+    height: 20px;
+}
+
+.commonLabel {
+    width: 60%;
+    float: left;
+    color:white;
+}
+
+.commonTextBox {
+    width: 40%;
+    float: right;
+}
+.commontext{
+    text-align:right;
+}
+.commonutton {
+    width: 235px;
+    height: 60px;
+    float: left;
+}
+.totalResult {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align: center;
+    width: 900px;
+    background: gray;
+    float: left;
+    text-align: center;
+}
+.totalSalary {
+    width: 400px;
+    height: 50px;
+}
+.labelTotalSalary {
+    width: 60%;
+    float: left;
+    color: white;
+}
+.texttotalSalary {
+    margin:auto;
+    width: 40%;
+    float: right;
+}
+#textTotalSalary {
+    margin: 5px;
+    height: 30px;
+    width: 300px;
+}
+.allName {
+    width: 400px;
+    height: 50px;
+}
+.labelAllName {
+    width: 60%;
+    float: left;
+    color: white;
+}
+.textAllEmployeeName {
+    margin: auto;
+    width: 40%;
+    float: right;
+}
+#textAllEmployeeName {
+    text-align: center;
+    margin:5px;
+    height: 50px;
+    width:300px;
+}
